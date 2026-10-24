@@ -74,3 +74,12 @@ L'utilisateur a demandé de laisser Docker de côté et de terminer les autres m
 - Le domaine est configuré via Dokploy pour le service `web`, port 3000, chemin `/`, avec HTTPS. Le contrôle de santé transmet les identifiants à `/api/health`.
 - `docker-compose.local.yml` conserve le lancement local avec publication de port, sans dépendance à Traefik.
 - La préparation des fichiers ne constitue pas un déploiement sur un serveur Dokploy.
+
+## Direction visuelle retenue après retour utilisateur
+
+L'utilisateur trouve les textes trop petits et le thème clair trop pâle. Il demande une ambiance orange, sportive, énergique, orientée focus, motivation et réalisation.
+
+- Thème anthracite avec accents orange vif, textes clairs et contrastes renforcés sur tous les écrans et graphiques.
+- Texte courant de 18 px, descriptions de 17–18 px, formulaires de 18 px, boutons de 16 px et grands indicateurs chiffrés. Les légendes secondaires sont généralement de 13–15 px ; la navigation mobile abrégée reste à 12 px.
+- Bandeau « Mode focus — Construis ta force » et illustration vectorielle d'un athlète avec haltères.
+- Navigation mobile aux libellés abrégés et cibles tactiles agrandies ; formulaires et grilles adaptés sans réduire les textes pour les faire tenir.

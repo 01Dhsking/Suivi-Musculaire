@@ -4,6 +4,8 @@ Application personnelle en français : poids, mensurations, estimations de masse
 
 ![Tableau de bord sans données fictives](docs/apercu.png)
 
+L'interface utilise un thème anthracite et orange, un texte courant de 18 px, de grands indicateurs et un bandeau sportif « Mode focus ». Les tableaux, graphiques et formulaires utilisent la même palette contrastée sur ordinateur, tablette et téléphone.
+
 ## Architecture
 
 ```text
